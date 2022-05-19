@@ -13,7 +13,7 @@ const Price = () => {
       <Row className="justify-content-center">
         <Col md={10} xs={12}>
           <div className="">
-            <h2 className="text-primary text-center py-3 fs-3">Avalon Park Pricing</h2>
+            <h2 className="text-primary text-center py-3 fs-3">Pricing</h2>
             <Table
               responsive="sm"
               className="align-middle text-center border-transparent"

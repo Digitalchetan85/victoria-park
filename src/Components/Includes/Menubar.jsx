@@ -8,7 +8,7 @@ import {
   Navbar,
   Row,
 } from "react-bootstrap";
-import Logo from "../../images/logo-1.png"
+import Logo from "../../images/SOBHA-Logo.png"
 import BrochureModal from "./BrochureModal";
 // import Modals from './Modals';
 
@@ -26,7 +26,7 @@ const Menubar = () => {
               md={4}
               className="d-none d-md-block text-white fw-bold align-self-center"
             >
-              <i className="fa fa-map-marker-alt"></i> Sarjapur Rd Bangalore.
+              <i className="fa fa-map-marker-alt"></i> Kyalashanahalli, Bangalore.
             </Col>
             <Col md={4} xs={5} className="align-self-center">
               <div className="text-center">
@@ -43,10 +43,10 @@ const Menubar = () => {
             <Col md={4} xs={7} className="align-self-center">
               <div className="text-center text-md-end">
                 <a
-                  href="tel:+918095999000"
+                  href="tel:+917848849069"
                   className="anchor p-0 btn btn-transparent fw-bold text-white m-1"
                 >
-                  <i className="fa fa-phone-volume"></i> +91-80959 99000
+                  <i className="fa fa-phone-volume"></i> +91-78488 49069
                 </a>
               </div>
             </Col>

@@ -23,16 +23,16 @@ const MasterPlan = () => {
         onSelect={(k) => setKey(k)}
         className="mb-3 text-dark"
       >
-        <Tab eventKey="all" title="Master Plan" className="text-dark">
+        <Tab eventKey="all" title="All Images" className="text-dark">
           <AllImages />
         </Tab>
-        <Tab eventKey="matster-plan" title="Layout 1" className="text-dark">
+        <Tab eventKey="matster-plan" title="Master Plan" className="text-dark">
           <MasterPlanImages />
         </Tab>
-        <Tab eventKey="three-bhk" title="Layout 2">
+        <Tab eventKey="floor-plan" title="Floor Plan">
           <ThreeBhk />
         </Tab>
-        <Tab eventKey="four-bhk" title="Layout 3">
+        {/* <Tab eventKey="four-bhk" title="Layout 3">
           <FourBhk />
         </Tab>
         <Tab eventKey="seven-bhk" title="Layout 4">
@@ -43,7 +43,7 @@ const MasterPlan = () => {
         </Tab>
         <Tab eventKey="six-bhk" title="Layout 6">
           <SixBhk />
-        </Tab>
+        </Tab> */}
       </Tabs>
     </div>
   );

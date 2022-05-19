@@ -3,9 +3,10 @@ import { Container, Col, Image, Row, Button } from "react-bootstrap";
 import OwlCarousel from "react-owl-carousel2";
 import "react-owl-carousel2/src/owl.carousel.css";
 import "react-owl-carousel2/src/owl.theme.default.css";
-import Image1 from "../../images/slider/baner-1.png";
-import Image2 from "../../images/slider/baner-2.png";
-import Logo from "../../images/logo-1.png";
+import Image1 from "../../images/slider/image-1.png";
+import Image2 from "../../images/slider/image-2.png";
+import Image3 from "../../images/slider/image-3.png";
+import Logo from "../../images/SOBHA-Logo.png";
 import BrochureModal from "./BrochureModal";
 // import Modals from "./Modals";
 
@@ -23,6 +24,11 @@ const Slider = () => {
     {
       id: 2,
       ImageUrl: Image2,
+      alt: "",
+    },
+    {
+      id: 3,
+      ImageUrl: Image3,
       alt: "",
     },
   ];
@@ -78,13 +84,13 @@ const Slider = () => {
               <Row className="">
                 <Col md={8} className="">
                   <div className="m-1">
-                    <h4>Concorde Abode 99</h4>
+                    <h4>Sobha Victoria Park</h4>
                     <p className="m-0"></p>
                     <p className="mb-0">
-                     Off Hosur Sarjapur Road, Bangalore
+                     Kyalashanahalli, Bangalore
                     </p>
                     <p className="mb-0 fw-bold">
-                      ₹ 2 - 3.8Cr* Onwards
+                      ₹ 1.27 - 3.88 Cr* Onwards
                     </p>
                   </div>
                 </Col>

@@ -1,10 +1,16 @@
 import { Container, Row, Col, Image } from "react-bootstrap";
 import SimpleReactLightbox, { SRLWrapper } from "simple-react-lightbox";
 import Image1 from "../../images/floor-plans/master-plan.png";
+import Image2 from "../../images/floor-plans/ground-floor.png";
+import Image3 from "../../images/floor-plans/1st-floor.png";
+import Image4 from "../../images/floor-plans/2nd-floor.png"
 
 const AllImages = () => {
   const images = [
     { id: 1, imgName: Image1, alt: "", tag: "Master Plan" },
+    { id: 2, imgName: Image2, alt: "", tag: "Ground Floor" },
+    { id: 3, imgName: Image3, alt: "", tag: "First Floor" },
+    { id: 4, imgName: Image4, alt: "", tag: "Second Floor" },
   ];
 
   return (

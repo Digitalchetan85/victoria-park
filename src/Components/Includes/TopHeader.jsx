@@ -28,7 +28,7 @@ const TopHeader = () => {
               md={4}
               className="d-none d-md-block text-info fw-bold align-self-center"
             >
-              <i className="fa fa-map-marker-alt"></i> Electronic City, Bangalore.
+              <i className="fa fa-map-marker-alt"></i> Kyalashanahalli, Bangalore.
             </Col>
             <Col md={4} xs={5} className="align-self-center">
               <div className="text-center">
@@ -45,10 +45,10 @@ const TopHeader = () => {
             <Col md={4} xs={7} className="align-self-center">
               <div className="text-center">
                 <a
-                  href="tel:+918095999000"
+                  href="tel:+917848849069"
                   className="anchor p-0 btn btn-transparent fw-bold text-info m-1"
                 >
-                  <i className="fa fa-phone-volume"></i> +91-80959 99000
+                  <i className="fa fa-phone-volume"></i> +91-78488 49069
                 </a>
               </div>
             </Col>
@@ -70,7 +70,7 @@ const TopHeader = () => {
             className="btn-sm btn-danger text-white d-block d-md-none px-3 border-0"
             href="tel:080959 99000 "
           >
-            <i className="fa fa-phone-volume"></i> 80959 99000
+            <i className="fa fa-phone-volume"></i> 78488 49069
           </Nav.Link> */}
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
@@ -248,9 +248,9 @@ const TopHeader = () => {
             {/* <Nav>
               <Nav.Link
                 className="btn-sm btn-danger text-white"
-                href="tel:080959 99000"
+                href="tel:07848849069"
               >
-                <i className="fa fa-phone-volume"></i> + 91 80959 99000
+                <i className="fa fa-phone-volume"></i> + 91 78488 49069
               </Nav.Link>
             </Nav> */}
           </Navbar.Collapse>

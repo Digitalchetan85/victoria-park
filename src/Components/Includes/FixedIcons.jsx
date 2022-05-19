@@ -8,7 +8,7 @@ const FixedIcons = () => {
           <div className="d-flex-column justify-content-end mb-2 position-fixed custom">
             <div className="my-5">
               <a
-                href="tel:080959990000"
+                href="tel:07848849069"
                 className="bg-info p-3 rounded-circle m-2"
               >
                 <i
@@ -20,7 +20,7 @@ const FixedIcons = () => {
             </div>
             <div className="my-5">
               <a
-                href="https://wa.me/918095999000?text='Hi! I'm Interested In Prsetige City Projects, Bangalore. Please Share Details.'"
+                href="https://wa.me/917848849069?text='Hi! I'm Interested In Sobha Victoria Park, Bangalore. Please Share Details.'"
                 target="_blank"
                 className="bg-info p-3 rounded-circle m-2"
               >
@@ -40,7 +40,7 @@ const FixedIcons = () => {
           <div className="row">
             <div className="col-6 bg-info p-3">
               <div className="text-center">
-                <a href="tel:08095999000" className="bg-info rounded-circle p-3">
+                <a href="tel:07848849069" className="bg-info rounded-circle p-3">
                   <i
                     className="fa fa-volume-control-phone text-white fs-2"
                     aria-hidden="true"
@@ -52,7 +52,7 @@ const FixedIcons = () => {
             <div className="col-6 bg-info p-3">
               <div className="text-center">
                 <a
-                  href="https://wa.me/918095999000?text='Hi! I'm Interested In Prsetige City Projects, Bangalore. Please Share Details.'"
+                  href="https://wa.me/917848849069?text='Hi! I'm Interested In Sobha Victoria Park, Bangalore. Please Share Details.'"
                   target="_blank"
                   className="bg-info rounded-circle p-3"
                 >

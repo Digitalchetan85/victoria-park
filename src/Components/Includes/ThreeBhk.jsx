@@ -1,15 +1,15 @@
 import React from "react";
 import { Container, Row, Col, Image } from "react-bootstrap";
 import SimpleReactLightbox, { SRLWrapper } from "simple-react-lightbox";
-import Image1 from "../../images/floor-plans/north-facing-9x12-ground-floor.png";
-import Image2 from "../../images/floor-plans/north-facing-9x12-first-floor.png";
-import Image3 from "../../images/floor-plans/north-facing-9x12-second-floor.png";
+import Image1 from "../../images/floor-plans/ground-floor.png";
+import Image2 from "../../images/floor-plans/1st-floor.png";
+import Image3 from "../../images/floor-plans/2nd-floor.png";
 
 const ThreeBhk = () => {
   const images = [
-      { id: 1, imgName: Image1, alt: "", tag: "North Face - 9x12 - Ground Floor" },
-      { id: 2, imgName: Image2, alt: "", tag: "North Face - 9x12 - First Floor" },
-      { id: 3, imgName: Image3, alt: "", tag: "North Face - 9x12 - Second Floor" }];
+      { id: 1, imgName: Image1, alt: "", tag: " Ground Floor" },
+      { id: 2, imgName: Image2, alt: "", tag: "First Floor" },
+      { id: 3, imgName: Image3, alt: "", tag: "Second Floor" }];
   return (
     <div>
       <Container fluid className="ps-0 pe-0">

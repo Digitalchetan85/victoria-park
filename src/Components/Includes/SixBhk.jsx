@@ -1,15 +1,16 @@
 import React from "react";
 import { Container, Row, Col, Image } from "react-bootstrap";
 import SimpleReactLightbox, { SRLWrapper } from "simple-react-lightbox";
-import Image1 from "../../images/floor-plans/east-facing-10x15-ground-floor.png";
-import Image2 from "../../images/floor-plans/east-facing-10x15-first-floor.png";
-import Image3 from "../../images/floor-plans/east-facing-10x15-second-floor.png";
+// import Image1 from "../../images/floor-plans/east-facing-10x15-ground-floor.png";
+// import Image2 from "../../images/floor-plans/east-facing-10x15-first-floor.png";
+// import Image3 from "../../images/floor-plans/east-facing-10x15-second-floor.png";
 
 const SixBhk = () => {
   const images = [
-      { id: 1, imgName: Image1, alt: "", tag: "East Face - 10x15 - Ground Floor" },
-      { id: 2, imgName: Image2, alt: "", tag: "East Face - 10x15 - First Floor" },
-      { id: 3, imgName: Image3, alt: "", tag: "East Face - 10x15 - Second Floor" }];
+      // { id: 1, imgName: Image1, alt: "", tag: "East Face - 10x15 - Ground Floor" },
+      // { id: 2, imgName: Image2, alt: "", tag: "East Face - 10x15 - First Floor" },
+      // { id: 3, imgName: Image3, alt: "", tag: "East Face - 10x15 - Second Floor" }
+    ];
   return (
     <div>
       <Container fluid className="ps-0 pe-0">
