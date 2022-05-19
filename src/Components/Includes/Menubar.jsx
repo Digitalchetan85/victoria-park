@@ -69,7 +69,7 @@ const Menubar = () => {
               <Nav.Link href="#master-plan">Master Plan</Nav.Link>
               <Nav.Link href="#pricing">Pricing</Nav.Link>
               <Nav.Link href="#location">Location</Nav.Link>
-              <Nav.Link href="#virtual-tour">Virtual Tour</Nav.Link>
+              <Nav.Link href="#faq">FAQ</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>

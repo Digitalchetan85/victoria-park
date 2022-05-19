@@ -107,6 +107,10 @@ const Home = () => {
                         which combines different styles as that of French,
                         Italian and Tudor.
                       </p>
+                      <h6>About Off Hennur, Bangalore</h6>
+                      <p>Situated along the New Airport Road, Hennur Main Road a prime liking road of the Hennur area to the surrounding localities. About 6 kilometers northwest from the Benniganahalli Flyover, the Hennur main road connects to the Outer Ring Road. Hennur Road has become a key residential place for people who wish to be closer to the city and have easy access to the airport. Key builders in and around the Hennur main road are Puravankara Developer, DS Max, Shell Promoters and Infra Pvt. Ltd., MDVR projects and Salarpuria.</p>
+                      <h6>About Builder</h6>
+                      <p>Sobha Limited (formerly Sobha Developers Limited) is an Indian multinational real estate developer headquartered in Bangalore, SOBHA Limited was founded on 7 August 1995 by P.N.C. Menon. The company has also executed projects for some of India's corporate houses, including Infosys, WIPRO, HCL, Dell, Bosch, Biocon, Taj Group of Hotels and ITC Hotels. The company is also planning to invest INR 500 crore residential development in Gujarat International Finance Tec-City (GIFT City)</p>
                     </Col>
                   </Row>
                 </Container>
